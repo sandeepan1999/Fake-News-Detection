@@ -15,7 +15,9 @@ The dataset used has a shape of 7796×4. The first column identifies the news, t
 ![alt text](https://github.com/sandeepan1999/Fake-News-Detection/blob/master/cm.png)
 
 [588,  50],
+
 [ 44, 585]
+
 
 ### Report
 
